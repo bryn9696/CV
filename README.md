@@ -25,6 +25,16 @@ Sports Coach
 - Lesson planning: Planning lessons required good teamwork, being coordinated with the PE team in order to bounce ideas off each other and create effective lessons.
 - Leading sports lessons: I was responsible for delivering a number of sports programs across the school. This involved innovative thinking, clear communication, leadership and problem solving skills.
 
+**Royal Kent School** (September 2018 – August 2021)
+Learning Support Assistant
+
+- Taking small groups in classroom subjects - This requires me to have attention to detail in seeing how the children are working and in aiding them through their learning.
+
+**Surbiton High Boys Preparatory School** (September 2015 - July 2017)
+Surbiton High Boys Preparatory School
+
+- Managing Sports Teams - Every term, I was given a team to manage for matches and tournaments. Therefore, I had to be organised in setting up training sessions, decisive in picking teams and making decisions on match days.
+
 ## Skills
 
 - Problem Solving: I got diagnosed with Multiple Sclerosis in 2014. this meant that my walking ability slowly deteriorated. This means I now come across daily challenges in general life which I have to work out ways to overcome. It also meant I had to rethink how I was going to remain involved in sport. In my roles both as a teacher and as a business owner I would have to problem solve issues ranging from safeguarding concerns, health and safety concerns to parent issues. The solution usually came from thinking about the problem, deciding on a plan of action and finally implementing the plan. If success was not achieved, I would start the process again attacking the problem from a different angle.
