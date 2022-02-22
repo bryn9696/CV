@@ -6,8 +6,11 @@ I am an entrepreneur at heart. Since 2015 I have worked in various roles in phys
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Crosswordle**              | A webapp to play a| React.js, Python. |
+|                              | crossword version |                   |
+|                              | of wordle.        |                   |
+| **AceBook**                  | A webapp to mimic | Ruby on Rails.    |
+|                              | Facebook.         |                   |
 
 ## Work Experience
 
@@ -46,13 +49,9 @@ Surbiton High Boys Preparatory School
 ## Education
 
 #### Makers Academy (October 2021 to January 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- I learnt about Test Driven Development and implemented the TDD process using RSpec throughought my projects.
+- I not only learnt through Ruby but when working on projects I also immersed myself in the world of Rails, React, JavaScript and Python by utilising the importance of continually learning.
+- Frequently pairing helped to solve problems efficiently, requiring teamwork and communication.
 
 #### The Open University (September 2017 to July 2021)
 
