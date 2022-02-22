@@ -55,9 +55,7 @@ Surbiton High Boys Preparatory School
 
 #### The Open University (September 2017 to July 2021)
 
-- Sport, Fitness and Coaching
-- BSc(Hons)
-- Other cool stuff
+- 2.1 BSc(Hons) in Sport, Fitness and Coaching 
 
 # Claremont Fan Court School (September 2012 to June 2015)
 
