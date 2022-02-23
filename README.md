@@ -11,16 +11,17 @@ I am an entrepreneur at heart. Since 2015 I have worked in various roles in phys
 |                              | of wordle.        |                   |
 | **AceBook**                  | A webapp to mimic | Ruby on Rails.    |
 |                              | Facebook.         |                   |
+| **MakersBnB**                | A webapp to mimic | Ruby.             |
+|                              | AirBnB            |                   | 
 
 ## Work Experience
 
 **Sports Specialists Limited** (2018 to 2021)  
 Director
 
-- Managing finances: I organised payments, paid out invoices and was in regular communication with the accountants.
 - Organising and planning staffing: I was responsible for organising which staff were at which location, ensuring the duo could work exceptionally well together and allocate lead coach's for each site.
 - Managing customer database: I was in charge of inputting and maintaining customer information.
-- Sorting issues:  I was the point of contact for staff who had problems and for customers who had any issues.
+- Sorting problems:  I was the point of contact for staff who had any problems and for customers who had any issues as well as being the person to sort any logistical problems.
 
 **Royal Kent School** (2019 to 2021)  
 Sports Coach
