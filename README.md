@@ -1,6 +1,6 @@
 ## Bryn Williams
 
-I am an entrepreneur at heart. Since 2015 I have worked in various roles in physical education (PE) and this inspired me to start my own business, running sports clubs, in 2019. Throughout this, technology has always excited me thinking about how technologies can and do play a role in sport but also due to the innovation and need to problem solve.
+I am an entrepreneur at heart. Since 2015 I have worked in various roles in physical education (PE) and this inspired me to start my own business, running sports clubs, in 2019. Throughout this, technology has always excited me due to the innovation and need to problem solve but also thinking about how technologies can and do play a role in sport.
 
 ## Projects
 
@@ -62,8 +62,6 @@ Surbiton High Boys Preparatory School
 - Media Studies B
 - Business Studies C
 - Psychology D
-
-#### Any other qualifications
 
 ## Hobbies
 
