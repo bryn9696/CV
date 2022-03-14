@@ -9,6 +9,9 @@ I am an entrepreneur at heart. Since 2015 I have worked in various roles in phys
 | **Crosswordle**              | A webapp to play a| React.js, Python. |
 |                              | crossword version |                   |
 |                              | of wordle.        |                   |
+| **Minesweeper**              | A webapp to play  | JavaScript.       |
+|                              | a clone of        |                   |
+|                              | minesweeper.      |                   |
 | **AceBook**                  | A webapp to mimic | Ruby on Rails.    |
 |                              | Facebook.         |                   |
 | **MakersBnB**                | A webapp to mimic | Ruby.             |
