@@ -7,36 +7,38 @@ At the Makers academy I learnt the key skills required to develop full stack web
 
 | Name                         | Description                                         | Tech/tools        |
 | ---------------------------- | --------------------------------------------------- | ----------------- |
-| [**Crosswordle**](https://crosswordle-production.herokuapp.com/normal)             | A webapp to play a crossword version of wordle.     | React.js, Python. |
+| [**Crosswordle**](https://github.com/jessgordon/crosswordle)             | A webapp to play a crossword version of wordle.     | React.js, Python, CSS, Agile, Spike and Stabilise |
 | [**Minesweeper**](https://github.com/bryn9696/minesweeper)              | A webapp to play a clone of minesweeper.            | JavaScript.       |
-| **Snake**                    | A webapp to play a clone of the classic Snake game. | Ruby 2d           |
-| **AceBook**                  | A webapp to mimic Facebook.                         | Ruby on Rails.    |
-| **MakersBnB**                | A webapp to mimic AirBnB                            | Ruby.             |
+| [**Snake**](https://github.com/bryn9696/Snake-in-Ruby)                    | A webapp to play a clone of the classic Snake game. | Ruby 2d           |
+| [**AceBook**](https://github.com/msc49/acebook-rails-template-simple)                  | A webapp to mimic Facebook.                         | Ruby on Rails, TDD, Agile, Rspec, Capybara, Heroku, HTML, CSS    |
+| [**MakersBnB**](https://github.com/chris-clement/MakersBnB)                | A webapp to mimic AirBnB                            | Ruby, TDD, Agile, Rspec, Capybara, Heroku, HTML, CSS             |
 
 ## Work Experience
 
 **Sports Specialists Limited** (2018 to 2021)  
 Director
 
-- Organising and planning staffing: I was responsible for organising which staff were at which location, ensuring the duo could work exceptionally well together and allocate lead coach's for each site.
-- Managing customer database: I was in charge of inputting and maintaining customer information.
-- Sorting problems:  I was the point of contact for staff who had any problems and for customers who had any issues as well as being the person to sort any logistical problems.
+- Organising: Allocating which staff were at which location and allocating lead coach's for each site to deliver exceptional sport sessions.
+- Planning: Pairing coaches who could work well together to enable smooth running sessions.
+- Flexibility and adaptability: Adjusting when staff were out or for any conflicts arose.
+- Managing customer database: Inputting and maintaining customer information.
+- Problem solving: Point of contact for staff and customers who had any problems or issues as well as being the person to sort any logistical problems. This lead to a smoother running of the company.
 
 **Royal Kent School** (2019 to 2021)  
 Sports Coach
 
-- Lesson planning: Planning lessons required good teamwork, being coordinated with the PE team in order to bounce ideas off each other and create effective lessons.
-- Leading sports lessons: I was responsible for delivering a number of sports programs across the school. This involved innovative thinking, clear communication, leadership and problem solving skills.
+- Lesson planning: Required good teamwork, being coordinated with the PE team in order to bounce ideas off each other and create effective lessons.
+- Leading sports lessons: Responsible for delivering a number of sports programs across the school. This involved innovative thinking, clear communication, leadership and problem solving skills.
 
 **Royal Kent School** (September 2018 – August 2021)
 Learning Support Assistant
 
-- Taking small groups in classroom subjects - This requires me to have attention to detail in seeing how the children are working and in aiding them through their learning.
+- Small group work: Attention to detail in order to see how children were working and aiding them through their learning.
 
 **Surbiton High Boys Preparatory School** (September 2015 - July 2017)
 Surbiton High Boys Preparatory School
 
-- Managing Sports Teams - Every term, I was given a team to manage for matches and tournaments. Therefore, I had to be organised in setting up training sessions, decisive in picking teams and making decisions on match days.
+- Managing Sports Teams: Every term, I was given a team to manage for matches and tournaments. Therefore, I had to be organised in setting up training sessions, decisive in picking teams and making decisions on match days.
 
 ## Skills
 
