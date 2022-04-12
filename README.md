@@ -42,11 +42,11 @@ Surbiton High Boys Preparatory School
 
 ## Skills
 
-- Problem Solving: I got diagnosed with Multiple Sclerosis in 2014. This meant that my walking ability slowly deteriorated. This means I now come across daily challenges in general life which I have to work out ways to overcome. It also meant I had to rethink how I was going to remain involved in sport. In my roles both as a teacher and as a business owner I would have to problem solve issues ranging from safeguarding concerns, health and safety concerns to parent issues. The solution usually came from thinking about the problem, deciding on a plan of action and finally implementing the plan. If success was not achieved, I would start the process again attacking the problem from a different angle.
+- Problem Solving: I got diagnosed with Multiple Sclerosis in 2014. This meant that my walking ability slowly deteriorated. This means I now come across daily challenges in general life which I have to work out ways to overcome. It also meant I had to rethink how I was going to remain involved in sport. In my roles both as a teacher and as a business owner I would have to problem solve issues ranging from safeguarding concerns, health and safety concerns to parent issues. The solution usually came from thinking about the problem, deciding on a plan of action and finally implementing the plan. If success was not achieved, I would start the process again attacking the problem from a different angle. This came in really useful when having to create an algorithm for our Crossworlde project.
 
-- Organisation and planning: When running my business I had to coordinate with several different schools about club running times and also organising the club staffing. This required good communication skills but also for me to think about the logistics of club timings, clubs running simultaneously, the number of staff I had, child to stuff numbers ratio, contingency plans and the minimum number of customers need and the maximum we could accept.
+- Organisation and planning: When running my business I had to coordinate with several different schools about club running times and also organising the club staffing. This required good communication skills but also for me to think about the logistics of club timings, clubs running simultaneously, the number of staff I had, child to stuff numbers ratio, contingency plans and the minimum number of customers needed and the maximum we could accept. This type of planning, organisation and proactivity was beneficial at Makers when planning projects and deciding how we would tackle them.
 
-- Teamwork: While in my sports coaching roles at schools I had to work as part of a team, this lends myself to being a strong pair programmer. To achieve success at my previous jobs good communication was key in order to arrive at certain decisions. I also found that as well as communication skills, the environment created needs to be one where people arent afraid to suggest ideas and people should be able to bounce ideas off one another to find a final solution.
+- Teamwork: While in my sports coaching roles at schools I had to work as part of a team, this lends myself to being a strong pair programmer. To achieve success at my previous jobs good communication was key in order to arrive at certain decisions. I also found that as well as communication skills, the environment created needs to be one where people arent afraid to suggest ideas and people should be able to bounce ideas off one another to find a final solution. Being able to work in a team was helpful when pair programming and also when working in group projects.
 
 ## Education
 
@@ -62,4 +62,4 @@ Surbiton High Boys Preparatory School
 
 ## Hobbies
 
-In my free time I enjoy going to watch the football, more specifically Fulham. Along side this, I like to coach football.  I also love to cook, am into fitness and gaming.
+I enjoy going to watch the football, more specifically Fulham. Along side this, I like to coach football.  I also love to cook (mainly pasta), am into fitness and gaming.
