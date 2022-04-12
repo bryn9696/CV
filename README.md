@@ -1,21 +1,17 @@
 ## Bryn Williams
 
-I am an entrepreneur at heart. Since 2015 I have worked in various roles in physical education (PE) and this inspired me to start my own business, running sports clubs, in 2019. Throughout this, technology has always excited me due to the innovation and need to problem solve but also thinking about how technologies can and do play a role in sport.
+I am an entrepreneur at heart. Since 2015 I have worked in various roles in physical education (PE) and this inspired me to start my own business, running sports clubs, in 2019. Throughout this, technology has always excited me thinking about how technologies can and do play a role in sport. As someone familiar with the problems in sport and I want to be a part of the solution, this lead me to complete the Makers academy bootcamp and retrain as a software developer. The innovation and need to problem solve in the technology industry is what appeals to me.
+At the Makers academy I learnt the key skills required to develop full stack web apps using predominantly Ruby but also JavaScript and React. As well as teaching me how to code effectively, Makers taught me the importance of continuous learning. 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Crosswordle**              | A webapp to play a| React.js, Python. |
-|                              | crossword version |                   |
-|                              | of wordle.        |                   |
-| **Minesweeper**              | A webapp to play  | JavaScript.       |
-|                              | a clone of        |                   |
-|                              | minesweeper.      |                   |
-| **AceBook**                  | A webapp to mimic | Ruby on Rails.    |
-|                              | Facebook.         |                   |
-| **MakersBnB**                | A webapp to mimic | Ruby.             |
-|                              | AirBnB            |                   | 
+| Name                         | Description                                         | Tech/tools        |
+| ---------------------------- | --------------------------------------------------- | ----------------- |
+| [**Crosswordle**](https://crosswordle-production.herokuapp.com/normal)             | A webapp to play a crossword version of wordle.     | React.js, Python. |
+| [**Minesweeper**](https://github.com/bryn9696/minesweeper)              | A webapp to play a clone of minesweeper.            | JavaScript.       |
+| **Snake**                    | A webapp to play a clone of the classic Snake game. | Ruby 2d           |
+| **AceBook**                  | A webapp to mimic Facebook.                         | Ruby on Rails.    |
+| **MakersBnB**                | A webapp to mimic AirBnB                            | Ruby.             |
 
 ## Work Experience
 
@@ -53,19 +49,14 @@ Surbiton High Boys Preparatory School
 ## Education
 
 #### Makers Academy (October 2021 to January 2022)
-- I learnt about Test Driven Development and implemented the TDD process using RSpec throughought my projects.
-- I not only learnt through Ruby but when working on projects I also immersed myself in the world of Rails, React, JavaScript and Python by utilising the importance of continually learning.
-- Frequently pairing helped to solve problems efficiently, requiring teamwork and communication.
+- Using Ruby, I learnt to test drive development, using RSpec, through object oriented programming.
+- TDD taught me how to effectively debug and refactor applications.
+- Pair programming to problem solve efficiently, requiring teamwork and communication.
+- As well as Ruby I have used JavaScript and React to create projects along with HTML and CSS to style the web apps. Deployed to Heroku and used Capybara, Jest and Rspec to test.
 
 #### The Open University (September 2017 to July 2021)
 
 - 2.1 BSc(Hons) in Sport, Fitness and Coaching 
-
-# Claremont Fan Court School (September 2012 to June 2015)
-
-- Media Studies B
-- Business Studies C
-- Psychology D
 
 ## Hobbies
 
