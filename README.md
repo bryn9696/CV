@@ -8,6 +8,7 @@ At the Makers academy I learnt the key skills required to develop full stack web
 | Name                         | Description                                         | Tech/tools        |
 | ---------------------------- | --------------------------------------------------- | ----------------- |
 | [**Crosswordle**](https://github.com/jessgordon/crosswordle)             | A webapp to play a crossword version of wordle.     | React.js, Python, CSS, Agile, Spike and Stabilise |
+| [**Portfolio**](https://github.com/jessgordon/crosswordle)             | A web page to display my projects.     | React, Spike and Stabilise |
 | [**Minesweeper**](https://github.com/bryn9696/minesweeper)              | A webapp to play a clone of minesweeper.            | JavaScript.       |
 | [**Snake**](https://github.com/bryn9696/Snake-in-Ruby)                    | A webapp to play a clone of the classic Snake game. | Ruby 2d           |
 | [**AceBook**](https://github.com/msc49/acebook-rails-template-simple)                  | A webapp to mimic Facebook.                         | Ruby on Rails, TDD, Agile, Rspec, Capybara, Heroku, HTML, CSS    |
@@ -17,6 +18,7 @@ At the Makers academy I learnt the key skills required to develop full stack web
 
 **Sports Specialists Limited** (2018 to 2021)  
 Director
+I built this company from nothing to operating across 3 schools, with 5 clubs and holiday camps.
 
 - Organising: Allocating which staff were at which location and allocating lead coach's for each site to deliver exceptional sport sessions.
 - Planning: Pairing coaches who could work well together to enable smooth running sessions.
