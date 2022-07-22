@@ -19,6 +19,7 @@ At the Makers academy I learnt the key skills required to develop full stack web
 
 **Sports Specialists Limited** (2018 to 2021)  
 Director
+
 I built this company from nothing to operating across 3 schools, with 5 clubs and holiday camps.
 
 - Organising: Allocating which staff were at which location and allocating lead coach's for each site to deliver exceptional sport sessions.
