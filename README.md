@@ -8,7 +8,8 @@ At the Makers academy I learnt the key skills required to develop full stack web
 | Name                         | Description                                         | Tech/tools        |
 | ---------------------------- | --------------------------------------------------- | ----------------- |
 | [**Crosswordle**](https://github.com/jessgordon/crosswordle)             | A webapp to play a crossword version of wordle.     | React.js, Python, CSS, Agile, Spike and Stabilise |
-| [**Portfolio**](https://github.com/jessgordon/crosswordle)             | A web page to display my projects.     | React, Spike and Stabilise |
+| [**Portfolio**](https://github.com/bryn9696/portfolio)             | A web page to display my projects.     | React, Spike and Stabilise |
+| [**Player-Progress-Tracker**](https://github.com/bryn9696/rails-ppt)             | A web app for sports coaches to track the progress of their players through the season.     | Ruby on Rails, Spike and Stabilise |
 | [**Minesweeper**](https://github.com/bryn9696/minesweeper)              | A webapp to play a clone of minesweeper.            | JavaScript.       |
 | [**Snake**](https://github.com/bryn9696/Snake-in-Ruby)                    | A webapp to play a clone of the classic Snake game. | Ruby 2d           |
 | [**AceBook**](https://github.com/msc49/acebook-rails-template-simple)                  | A webapp to mimic Facebook.                         | Ruby on Rails, TDD, Agile, Rspec, Capybara, Heroku, HTML, CSS    |
