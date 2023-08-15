@@ -12,10 +12,8 @@ I am a talented and collaborative software engineer with excellent problem-solvi
 
 | Name                         | Description                                         | Tech/tools        |
 | ---------------------------- | --------------------------------------------------- | ----------------- |
-| [**Order Management System**](https://github.com/bryn9696/OrderManagementSystem)| Matching an electronic list of buy and sell orders.
-(In progress) | Java, junit |
-| [**Player Tracker**](https://github.com/bryn9696/PlayerTracker)| A web app to track the abilities of athletes.
-(In progress) | SpringBoot, Java, React, CSS |
+| [**Order Management System**](https://github.com/bryn9696/OrderManagementSystem)| Matching an electronic list of buy and sell orders. | Java, junit |
+| [**Player Tracker**](https://github.com/bryn9696/PlayerTracker)| A web app to track the abilities of athletes. | SpringBoot, Java, React, CSS |
 | [**Crosswordle**](https://github.com/jessgordon/crosswordle)             | A webapp to play a crossword version of wordle.     | React, Python, CSS, Agile, Spike and Stabilise |
 | [**Portfolio**](https://github.com/bryn9696/portfolio)             | A web page to display my projects.     | React, Spike and Stabilise |
 | [**Player-Progress-Tracker**](https://github.com/bryn9696/rails-ppt)             | A web app for sports coaches to track the progress of their players through the season.     | Ruby on Rails, Spike and Stabilise |
