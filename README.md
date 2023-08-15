@@ -1,12 +1,21 @@
 ## Bryn Williams
 
-I am an entrepreneur at heart. Since 2015 I have worked in various roles in physical education (PE) and this inspired me to start my own business, running sports clubs, in 2019. Throughout this, technology has always excited me thinking about how technologies can and do play a role in sport. As someone familiar with the problems in sport and I want to be a part of the solution, this lead me to complete the Makers academy bootcamp and retrain as a software developer. The innovation and need to problem solve in the technology industry is what appeals to me.
-At the Makers academy I learnt the key skills required to develop full stack web apps using predominantly Ruby but also JavaScript and React. As well as teaching me how to code effectively, Makers taught me the importance of continuous learning. 
+I am a talented and collaborative software engineer with excellent problem-solving skills and an entrepreneurial spirit. I completed a degree in sport and fitness and have since successfully pivoted to software engineering. I took the opportunity to undergo bootcamp training to build a solid foundation to my knowledge and have completed a competitive and challenging graduate programme with a fintech consultancy (references available upon request). I am now looking for my next step into the world of software engineering and am immediately available for employment.
+
+## Core Skills
+
+- Programming languages/ frameworks: Java, Cucumber, Junit, Aeron, Spring, gRPC, SQL, Ruby, JavaScript.
+- Test driven development and behaviour driven development.
+- Strong communicator, able to motivate and engage teams.
 
 ## Projects
 
 | Name                         | Description                                         | Tech/tools        |
 | ---------------------------- | --------------------------------------------------- | ----------------- |
+| [**Order Management System**](https://github.com/bryn9696/OrderManagementSystem)| Matching an electronic list of buy and sell orders.
+(In progress) | Java, junit |
+| [**Player Tracker**](https://github.com/bryn9696/PlayerTracker)| A web app to track the abilities of athletes.
+(In progress) | SpringBoot, Java, React, CSS |
 | [**Crosswordle**](https://github.com/jessgordon/crosswordle)             | A webapp to play a crossword version of wordle.     | React, Python, CSS, Agile, Spike and Stabilise |
 | [**Portfolio**](https://github.com/bryn9696/portfolio)             | A web page to display my projects.     | React, Spike and Stabilise |
 | [**Player-Progress-Tracker**](https://github.com/bryn9696/rails-ppt)             | A web app for sports coaches to track the progress of their players through the season.     | Ruby on Rails, Spike and Stabilise |
@@ -17,6 +26,17 @@ At the Makers academy I learnt the key skills required to develop full stack web
 
 ## Work Experience
 
+**Java Software Engineer** (February 2023 to July 2023)
+
+I was selected from hundreds of candidates for this exciting and challenging graduate programme. I received intense training in Java before exploring further frameworks. After this, I was working on projects either individually or in a team to meet the requests of stakeholders. I worked on these projects in an agile environment. The company had a strong culture of continual personal development and learning and so the pressure to absorb and then implement what we learned was considerable.
+
+- Agile: Collaborated in agile teams to successfully deliver software solutions, ensuring efficient and timely project completion.
+- Problem solving: Developed innovative programs to address complex financial scenarios, showcasing strong problem-solving skills.
+- Planning: Skillfully managed sprint backlogs and daily workload, ensuring optimal planning and prioritisation of tasks.
+- Adaptability: Demonstrated adaptable nature by promptly responding to clients' evolving requirements and seamlessly incorporating changes into the product.
+- Communication: Effectively communicated progress and accomplishments to clients during demos, as well as facilitated team collaboration through clear and concise communication.
+- Time management: Exhibited excellent time management skills, meeting project milestones and deadlines.
+- Technical: Technologies used included Java, Cucumber, Junit, Aeron, Spring, gRPC, SQL, JavaScript.
 **Sports Specialists Limited** (2018 to 2021)  
 Director
 
